@@ -38,7 +38,6 @@ dependencies:
   system_tray: ^2.0.3
   screen_capturer_plugin:
     path: ./screen_capturer_plugin
-  path_provider: ^2.1.4
   file_picker: ^8.1.2
   shared_preferences: ^2.3.2
 
